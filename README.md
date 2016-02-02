@@ -9,4 +9,5 @@ make
 
 make run
 
-(You can then look at my_output.png to see result)
+-You can then look at my_output.png to see result.
+-Can also look at Makefile to see what make and make run do.
